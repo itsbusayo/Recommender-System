@@ -22,4 +22,4 @@ The increase in performance and results produced using the suggested technique e
 creation and implementation that enable the monitoring and optimization of the collaborative
 Filtering process of the recommender findings.
 
-The full details of the report can be found in 
+The full details of the report can be found in https://github.com/itsbusayo/Recommender-System/blob/main/Report/Recommender%20report.pdf
