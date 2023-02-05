@@ -21,3 +21,5 @@ k-neighborhoods are employed.
 The increase in performance and results produced using the suggested technique enables the
 creation and implementation that enable the monitoring and optimization of the collaborative
 Filtering process of the recommender findings.
+
+The full details of the report can be found in 
